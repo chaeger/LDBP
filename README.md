@@ -1,3 +1,3 @@
-# LDBP: Physics-Based Deep Learning for Fiber-Optic Communication Systems
+# LDBP: Learned Digital Backpropagation
 
 Source code will be posted soon ...
