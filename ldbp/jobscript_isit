@@ -1,0 +1,10 @@
+#!/bin/bash
+echo process ID: $$
+echo $$ > last_pid
+
+# starts at SNR = 20.9 dB 
+# converges to 22.5 dB (maximum)
+python3 ldbp.py [0] 0.001 1500 --config_path=config/isit.ini
+
+# 150,000 iterations = approx. 2 hours
+#python3 ldbp.py [-2,-1,0,1] 0.001 150000 --config_path=config/isit_pruning.ini

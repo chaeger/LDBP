@@ -1,0 +1,5 @@
+# to create environment: 
+conda env create -f ldbp_env.yml
+
+# to remove
+conda env remove -n ldbp_env

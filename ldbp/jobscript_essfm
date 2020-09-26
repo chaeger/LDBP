@@ -1,0 +1,7 @@
+#!/bin/bash
+echo process ID: $$
+echo $$ > last_pid
+
+# starts at SNR = 5.2 dB
+# ends at SNR = 18.2 dB
+python3 ldbp.py [-5,-4,-3,-2] 0.001 5000 --config_path=config/essfm.ini
