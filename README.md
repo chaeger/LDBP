@@ -50,6 +50,8 @@ Pfister](http://pfister.ee.duke.edu).
 If you decide to use the source code for your research, please make sure
 to cite our paper(s):
 
+* C. Häger and H. D. Pfister, "[Physics-Based Deep Learning for Fiber-Optic Communication Systems](https://arxiv.org/abs/2010.14258)", in *IEEE J. Sel. Areas Commun.* (to appear), 2020
+
 * C. Häger and H. D. Pfister, "[Nonlinear Interference Mitigation via Deep Neural Networks](https://arxiv.org/abs/1710.06234)", in Proc. *Optical Fiber Communication Conf. (OFC)*, San Diego, CA, March 2018
 
 * C. Häger and H. D. Pfister, "[Deep Learning of the Nonlinear Schrödinger Equation in Fiber-Optic Communication](https://arxiv.org/abs/1804.02799)", In Proc. *IEEE Int. Symp. on Information Theory (ISIT)*, Vail, CO, June 2018
